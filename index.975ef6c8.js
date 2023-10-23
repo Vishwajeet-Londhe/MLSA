@@ -27090,11 +27090,11 @@ var _stylesCss = require("./styles.css");
     name: "Vishwajeet Londhe",
     title: "PES MCOE CSE'26 | WEB DEVELOPMENT | BLOCKCHAIN | ALPHA- MLSA |",
     email: "vishwajeetlondhe51@gmail.com",
-    gitHub: "https://github.com/VishwajeetLondhe",
-    instagram: "https://instagram.com/vishwajeet_0104?igshid=MzNlNGNkZWQ4Mg==",
-    linkedIn: "https://www.linkedin.com/in/vishwajeetlondhe",
-    medium: "https://medium.com/@VishwajeetLondhe",
-    twitter: "https://twitter.com/Vishwajeet0104?t=CkC5LRPbGmijymFcvW42_g&s=09",
+    gitHub: "VishwajeetLondhe",
+    instagram: "vishwajeet_0104?igshid=MzNlNGNkZWQ4Mg==",
+    linkedIn: "vishwajeetlondhe",
+    medium: "@VishwajeetLondhe",
+    twitter: "Vishwajeet0104?t=CkC5LRPbGmijymFcvW42_g&s=09",
     youTube: ""
 };
 const primaryColor = "#4E567E";
@@ -27182,7 +27182,7 @@ var _motionBackgroundJpgDefault = parcelHelpers.interopDefault(_motionBackground
 const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
- */ const description = "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+ */ const description = "Hello I’m Vishwajeet currently I am pursuing engineering degree at PES modern college of engineering at CS department ,pune.I am interested in Web Development and Blockchain";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
@@ -28715,7 +28715,7 @@ $RefreshReg$(_c, "Home");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/down-arrow.svg":"b5nCi","prop-types":"7wKI2","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../images/fantasy-4732736_1280.jpg":"fUqxk"}],"b5nCi":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/down-arrow.svg":"b5nCi","prop-types":"7wKI2","../images/fantasy-4732736_1280.jpg":"fUqxk","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"b5nCi":[function(require,module,exports) {
 module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "down-arrow.1037091f.svg" + "?" + Date.now();
 
 },{"./helpers/bundle-url":"lgJ39"}],"fUqxk":[function(require,module,exports) {
